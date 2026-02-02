@@ -1,0 +1,17 @@
+order_id,order_date,region,sales_rep,product,category,units_sold,unit_price,total_sales
+1001,2024-01-05,North,Ana,Office Chair,Furniture,5,3500,17500
+1002,2024-01-07,South,John,Desk Lamp,Furniture,10,1200,12000
+1003,2024-01-10,East,Maria,Laptop,Electronics,3,45000,135000
+1004,2024-01-12,West,Leo,Printer,Electronics,2,18000,36000
+1005,2024-02-03,North,Ana,Bookshelf,Furniture,4,6500,26000
+1006,2024-02-06,South,John,Monitor,Electronics,5,12000,60000
+1007,2024-02-10,East,Maria,Tablet,Electronics,6,18000,108000
+1008,2024-02-14,West,Leo,Office Desk,Furniture,2,15000,30000
+1009,2024-03-01,North,Ana,Printer,Furniture,3,18000,54000
+1010,2024-03-05,South,John,Laptop,Electronics,2,45000,90000
+1011,2024-03-10,East,Maria,Desk Lamp,Furniture,8,1200,9600
+1012,2024-03-12,West,Leo,Monitor,Electronics,4,12000,48000
+1013,2024-04-02,North,Ana,Tablet,Electronics,4,18000,72000
+1014,2024-04-07,South,John,Office Chair,Furniture,6,3500,21000
+1015,2024-04-11,East,Maria,Office Desk,Furniture,3,15000,45000
+1016,2024-04-15,West,Leo,Laptop,Electronics,1,45000,45000
